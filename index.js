@@ -21,13 +21,13 @@ const proyectos = [
     id: 2,
     titulo: 'Consultora Atharmal',
     info: 'Web programada',
-    imagen: 'ICONOCONSULTORA2.png',
+    imagen: 'https://imgur.com/NW9PEoO',
   },
   {
     id: 3,
     titulo: 'Consultora Global ARG',
     info: 'Web programada y Backend',
-    imagen: 'ICONOCONSULTORA3.png',
+    imagen: 'https://imgur.com/mpngen0',
   },
   {
     id: 4,
