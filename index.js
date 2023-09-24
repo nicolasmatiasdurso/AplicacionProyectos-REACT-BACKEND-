@@ -13,33 +13,27 @@ app.use(bodyParser.json());
 const proyectos = [
   {
     id: 1,
-    titulo: 'Proyecto 1',
-    info: 'Información del Proyecto 1',
-    imagen: 'imagen1.jpg',
+    titulo: 'Consultora Lyhem',
+    info: 'Api rest creada & Web diseñada',
+    imagen: 'ICONOCONSULTORA.png',
   },
   {
     id: 2,
-    titulo: 'Proyecto 2',
-    info: 'Información del Proyecto 2',
-    imagen: 'imagen2.jpg',
+    titulo: 'Consultora Atharmal',
+    info: 'Web programada',
+    imagen: 'ICONOCONSULTORA2.png',
   },
   {
     id: 3,
-    titulo: 'Proyecto 3',
-    info: 'Información del Proyecto 2',
-    imagen: 'imagen2.jpg',
+    titulo: 'Consultora Global ARG',
+    info: 'Web programada y Backend',
+    imagen: 'ICONOCONSULTORA3.png',
   },
   {
     id: 4,
-    titulo: 'Proyecto 4',
-    info: 'Información del Proyecto 2',
-    imagen: 'imagen2.jpg',
-  },
-  {
-    id: 5,
-    titulo: 'Proyecto 2',
-    info: 'Información del Proyecto 2',
-    imagen: 'imagen2.jpg',
+    titulo: 'Peliculas ND',
+    info: 'Aplicación para buscar películas',
+    imagen: 'PELICULASND.png',
   },
 ];
 
