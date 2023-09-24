@@ -15,7 +15,7 @@ const proyectos = [
     id: 1,
     titulo: 'Consultora Lyhem',
     info: 'Api rest creada & Web diseñada',
-    imagen: 'ICONOCONSULTORA.png',
+    imagen: './ICONOCONSULTORA.png',
   },
   {
     id: 2,
