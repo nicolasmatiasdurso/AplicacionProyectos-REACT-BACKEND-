@@ -33,7 +33,7 @@ const proyectos = [
     id: 4,
     titulo: 'Peliculas ND',
     info: 'Aplicación para buscar películas',
-    imagen: 'PELICULASND.png',
+    imagen: 'https://imgur.com/JVCffdx',
   },
 ];
 
