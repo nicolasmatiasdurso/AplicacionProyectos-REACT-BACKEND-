@@ -15,25 +15,25 @@ const proyectos = [
     id: 1,
     titulo: 'Consultora Lyhem',
     info: 'Api rest creada & Web diseñada',
-    imagen: 'https://imgur.com/jILCihX',
+    imagen: 'https://imgur.com/jILCihX.png',
   },
   {
     id: 2,
     titulo: 'Consultora Atharmal',
     info: 'Web programada',
-    imagen: 'https://imgur.com/NW9PEoO',
+    imagen: 'https://imgur.com/NW9PEoO.png',
   },
   {
     id: 3,
     titulo: 'Consultora Global ARG',
     info: 'Web programada y Backend',
-    imagen: 'https://imgur.com/mpngen0',
+    imagen: 'https://imgur.com/mpngen0.png',
   },
   {
     id: 4,
     titulo: 'Peliculas ND',
     info: 'Aplicación para buscar películas',
-    imagen: 'https://imgur.com/JVCffdx',
+    imagen: 'https://imgur.com/JVCffdx.png',
   },
 ];
 
