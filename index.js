@@ -1,7 +1,12 @@
 const express = require('express');
 const bodyParser = require('body-parser');
+const cors = require('cors'); // Importa el paquete cors
 
 const app = express();
+
+// Configura CORS para permitir solicitudes desde cualquier origen
+app.use(cors());
+
 app.use(bodyParser.json());
 
 // Datos ficticios de proyectos
@@ -14,6 +19,24 @@ const proyectos = [
   },
   {
     id: 2,
+    titulo: 'Proyecto 2',
+    info: 'Información del Proyecto 2',
+    imagen: 'imagen2.jpg',
+  },
+  {
+    id: 3,
+    titulo: 'Proyecto 3',
+    info: 'Información del Proyecto 2',
+    imagen: 'imagen2.jpg',
+  },
+  {
+    id: 4,
+    titulo: 'Proyecto 4',
+    info: 'Información del Proyecto 2',
+    imagen: 'imagen2.jpg',
+  },
+  {
+    id: 5,
     titulo: 'Proyecto 2',
     info: 'Información del Proyecto 2',
     imagen: 'imagen2.jpg',
